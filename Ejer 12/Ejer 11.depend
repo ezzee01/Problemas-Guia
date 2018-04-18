@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523220032 source:c:\users\eze\desktop\problemas c 1 al 57\ejer 11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
